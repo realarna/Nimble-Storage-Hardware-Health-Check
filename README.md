@@ -1,6 +1,6 @@
-This is an Updated Version of the original "Nimble Storage Hardware Health API Check Script" from geekmungus.
-We use it mainly to monitor physical Nimble disks which is not possible with the current snmp check.
-Its Python 3 compatible and works with check mk 2.4.0px
+This is an Updated Version of the original "Nimble Storage Hardware Health API Check Script" from geekmungus. <br>
+We use it mainly to monitor physical Nimble disks which is not possible with the current snmp check.<br>
+Its Python 3 compatible and works with check mk 2.4.0px <br>
 
 
 Example usage in Check MK:
